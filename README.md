@@ -32,3 +32,7 @@ Deste modo, após a sequência completa, todos os LEDs são apagados e o ciclo t
 - Carregue o código na placa BitDogLab.
 - Pressione o botão A.
 - A simulação também pode ser verificada no *diagram.json*, devido a integração com o *Wokwi*.
+
+**Vídeo de funcionamento**
+
+https://drive.google.com/drive/folders/1-9pVgkojia8EXkUnv-MwkPL24KXGVcmJ?usp=sharing
